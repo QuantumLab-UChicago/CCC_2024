@@ -1,0 +1,6 @@
+name: quantumlab-environment
+channels:
+  - conda-forge
+dependencies:
+  - notebook=6
+  - jupyter_server=1
