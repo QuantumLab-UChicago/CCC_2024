@@ -1,8 +1,8 @@
+notebook==6.*
+jupyter-server==1.*
+jupyterlab==3.*
 matplotlib
 numpy
 pandas
 ipywidgets
 scipy
-notebook==6.*
-jupyter-server==1.*
-jupyterlab==3.*
